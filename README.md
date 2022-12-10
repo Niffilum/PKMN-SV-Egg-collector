@@ -24,6 +24,18 @@ plss dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it
  if you have a video of said error even better 
  
  starting position: 
+ 
  ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051105482011590726/IMG_20221208_105154.jpg)
  
 Connect arduino at change grip menu
+
+If you want to set a custom time, change this specific line in the .C file with notepad++ or something and then compile
+
+12 = 30m
+24 = 1h
+36 = 1h30m
+48 = 2h 
+
+and so on.
+
+![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051109582879080530/Screenshot_3.jpg)
