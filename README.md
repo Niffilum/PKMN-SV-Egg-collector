@@ -19,7 +19,7 @@ File included are already hex files.
 
 PLEASE DON'T FORGET TO SCAN IT w/ antivirus always for precaution.
 
-plss dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it
+As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it
 
  if you have a video of said error even better 
  
@@ -41,3 +41,5 @@ If you want to set a custom time, change this specific line in the .C file with 
 and so on.
 
 ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051109582879080530/Screenshot_3.jpg)
+
+
