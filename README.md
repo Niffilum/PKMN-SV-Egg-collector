@@ -29,6 +29,8 @@ plss dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it
  
 Connect arduino at change grip menu
 
+![alt text](https://cdn.discordapp.com/attachments/750184046448869429/1051127261039960134/IMG_20221210_205703.jpg)
+
 If you want to set a custom time, change this specific line in the .C file with notepad++ or something and then compile
 
 12 = 30m
