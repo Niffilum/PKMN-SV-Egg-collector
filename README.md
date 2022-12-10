@@ -7,9 +7,12 @@ Pokemon SV - Egg Collector (MicroController only)
 - checks as if it has 9 eggs
 - Auto Sandwich maker
 - Does 12 cycles before re-making sandwich
-- Closes dialogue so you don't get stuck and not generate eggs (this may mess up, idk why, currently finding a way to make it more consistent
+- Closes dialogue so you don't get stuck and not generate eggs (this may mess up, idk why, currently finding a way to make it more consistent)
 - Whistle cancels whenever pressing B so you don't accidentally crouch (crouch glitch was a bit inconsistent and crouching wont allow you to interact with basket)
 - Estimated an average of 45 eggs per 30m or 90 eggs per hour (SLOW AF compared to swsh)
+
+Known Errors:
+- Stuck in dialogue while checking eggs, while this may happen, I can assure you that in the next time it checks it gets unstuck at least so you will lose 1 cycle of eggs. if anyone can have an idea on how to make this more consistent, let me know.
 
 I made this bc I don't have a full setup nor a pc I can casually leave on standby alongside my switch whenever I want to run a PA program
 This only needs an arduino, plug in on the change grip controller menu like past programs and you're good to go
