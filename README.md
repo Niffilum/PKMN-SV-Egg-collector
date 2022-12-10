@@ -18,6 +18,10 @@ This only needs an arduino, plug in on the change grip controller menu like past
 
 As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it, if you have a video of said error even better 
  
+ 
+ 
+# Instructions
+ 
 Starting position: 
  
  ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051105482011590726/IMG_20221208_105154.jpg)
