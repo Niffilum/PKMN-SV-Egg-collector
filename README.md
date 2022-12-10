@@ -16,17 +16,17 @@ This only needs an arduino, plug in on the change grip controller menu like past
 
 # PLEASE DON'T FORGET TO SCAN IT w/ antivirus always for precaution.
 
-# As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it, if you have a video of said error even better 
+As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it, if you have a video of said error even better 
  
-# Starting position: 
+Starting position: 
  
  ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051105482011590726/IMG_20221208_105154.jpg)
  
-# Connect arduino at change grip menu
+Connect arduino at change grip menu
 
 ![alt text](https://cdn.discordapp.com/attachments/750184046448869429/1051127261039960134/IMG_20221210_205703.jpg)
 
-# If you want to set a custom time, change this specific line in the .C file with notepad++ or something and then compile
+If you want to set a custom time, change this specific line in the .C file with notepad++ or something and then compile
 
 12 = 30m
 24 = 1h
