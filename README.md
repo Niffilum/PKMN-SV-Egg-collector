@@ -14,7 +14,7 @@ Pokemon SV - Egg Collector (MicroController only)
 I made this bc I don't have a full setup nor a pc I can casually leave on standby alongside my switch whenever I want to run a PA program
 This only needs an arduino, plug in on the change grip controller menu like past programs and you're good to go
 
-# PLEASE DON'T FORGET TO SCAN IT w/ antivirus always for precaution.
+PLEASE DON'T FORGET TO SCAN IT w/ antivirus always for precaution.
 
 As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it, if you have a video of said error even better 
  
