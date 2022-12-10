@@ -23,6 +23,7 @@ plss dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it
 
  if you have a video of said error even better 
  
- starting position: Connect arduino at change grip menu
- https://cdn.discordapp.com/attachments/711649658220314635/1051105482011590726/IMG_20221208_105154.jpg
+ starting position: 
+ ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051105482011590726/IMG_20221208_105154.jpg)
  
+Connect arduino at change grip menu
