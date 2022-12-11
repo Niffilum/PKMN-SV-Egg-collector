@@ -50,7 +50,7 @@ and so on.
 
 HOW TO compile and upload hex to your board (diff program in video but same principle)
 
-![alt text](https://www.youtube.com/watch?v=y2xFf7e_KSU&list=PLrAfKLfOSiGFv6wjohlEXQqYjEIoBOkfX)
+![Watch the Video](https://www.youtube.com/watch?v=y2xFf7e_KSU&list=PLrAfKLfOSiGFv6wjohlEXQqYjEIoBOkfX)
 
 ## Thanks & Credits
 [Progmem](https://github.com/progmem/Switch-Fightstick) (Switch-Fighstick internal)
