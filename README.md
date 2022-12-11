@@ -48,6 +48,10 @@ and so on.
 
 ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051109582879080530/Screenshot_3.jpg)
 
+HOW TO compile and upload hex to your board (diff program in video but same principle)
+
+![alt text](https://www.youtube.com/watch?v=y2xFf7e_KSU&list=PLrAfKLfOSiGFv6wjohlEXQqYjEIoBOkfX)
+
 ## Thanks & Credits
 [Progmem](https://github.com/progmem/Switch-Fightstick) (Switch-Fighstick internal)
 
