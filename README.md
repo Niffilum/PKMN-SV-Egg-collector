@@ -28,13 +28,13 @@ Great peanut butter sandwich in this position
 in the 6th position (bottom right) when you first open sandwich menu
 
 
-<img src="https://media.discordapp.net/attachments/750184046448869429/1053307943031951401/IMG_20221216_214503.jpg" width="20" height="20">
+<img src="https://media.discordapp.net/attachments/750184046448869429/1053307943031951401/IMG_20221216_214503.jpg" width="100" height="100">
  
 # Instructions
  
 Starting position: 
  
-<img src="https://media.discordapp.net/attachments/688253446520176650/1050243486143750224/IMG_20221208_105154.jpg" width="20">
+<img src="https://media.discordapp.net/attachments/688253446520176650/1050243486143750224/IMG_20221208_105154.jpg" width="100">
  
 Connect arduino at change grip menu
 
