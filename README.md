@@ -34,7 +34,7 @@ in the 6th position (bottom right) when you first open sandwich menu
  
 Starting position: 
  
- ![alt text](https://media.discordapp.net/attachments/750184046448869429/1053310952889651200/IMG_20221208_105154-1.jpg)
+<img src="https://media.discordapp.net/attachments/688253446520176650/1050243486143750224/IMG_20221208_105154.jpg" width="20">
  
 Connect arduino at change grip menu
 
