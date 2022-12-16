@@ -28,7 +28,7 @@ Great peanut butter sandwich in this position
 in the 6th position (bottom right) when you first open sandwich menu
 
 
-<img src="https://media.discordapp.net/attachments/750184046448869429/1053307943031951401/IMG_20221216_214503.jpg" width="200" height="200">
+<img src="https://media.discordapp.net/attachments/750184046448869429/1053307943031951401/IMG_20221216_214503.jpg" width="300" height="300">
  
 # Instructions
  
