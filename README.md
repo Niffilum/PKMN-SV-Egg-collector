@@ -21,7 +21,11 @@ PLEASE DON'T FORGET TO SCAN IT w/ antivirus always for precaution.
 
 As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a bug/error... so I can fix it, if you have a video of said error even better 
  
- 
+# Requirements
+Great peanut butter sandwich in this position
+(Basically ask the sandwich guy before getting a single herba)
+
+![alt text](https://cdn.discordapp.com/attachments/750184046448869429/1051127261039960134/IMG_20221216_214503.jpg)
  
 # Instructions
  
