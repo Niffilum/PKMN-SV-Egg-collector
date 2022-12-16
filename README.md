@@ -24,6 +24,7 @@ As I am doing this project alone, please dm/ping me at Niffy#4428 if you find a 
 # Requirements
 Great peanut butter sandwich in this position
 (Basically ask the sandwich guy before getting a single herba)
+
 in the 6th position (bottom right) when you first open sandwich menu
 
 
@@ -33,7 +34,7 @@ in the 6th position (bottom right) when you first open sandwich menu
  
 Starting position: 
  
- ![alt text](https://cdn.discordapp.com/attachments/711649658220314635/1051105482011590726/IMG_20221208_105154.jpg)
+ ![alt text](https://media.discordapp.net/attachments/688253446520176650/1050243486143750224/IMG_20221208_105154.jpg)
  
 Connect arduino at change grip menu
 
